@@ -1,0 +1,11 @@
+hotel,is_canceled,lead_time,arrival_date_month,adults,children,adr,market_segment
+Resort Hotel,0,20,January,2,0,120.0,Direct
+City Hotel,1,45,January,2,0,95.0,Online TA
+City Hotel,0,10,February,1,0,80.0,Direct
+Resort Hotel,0,60,February,2,1,150.0,Online TA
+City Hotel,1,90,March,2,0,110.0,Groups
+Resort Hotel,0,15,March,2,0,135.0,Direct
+City Hotel,0,30,April,2,0,100.0,Corporate
+Resort Hotel,1,75,April,2,0,125.0,Online TA
+City Hotel,0,5,May,1,0,85.0,Direct
+Resort Hotel,0,25,May,2,0,160.0,Online TA
